@@ -9,7 +9,7 @@
 
 1、付费教程，199不议价，咸鱼交易。
 
-2、附带web回调模板源码，199+50，例子：https://pay.sanqii.cn
+2、附带web回调模板源码，199+50，例子：https://pay.sanqii.cn/?TotalAmount=2.1&Subject=%E6%B5%8B%E8%AF%95&ReturnUrl=http://www.baidu.com&NotifyUrl=https://a.sanqii.cn/aa
 
 3、一条龙服务帮你搭建好，399。
 
