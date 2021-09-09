@@ -1,2 +1,19 @@
 # alipay
-跟了
+如果你是全栈开发者，且有一个创意网站。想要提供付费功能变现。付费是简单，但是程序要回调，来处理支付后续逻辑。
+两位马爸爸的接口面向的是企业资质。
+
+如果你有企业，但是不想被税务请去喝茶。
+或者你只是个人想接入支付，且不想资金绕来绕去，直接到你账户。拒绝垃圾三方转接口。
+
+那我这有路子「教程」帮你实现。
+
+1、付费教程，199不议价，咸鱼交易。
+
+2、附带web回调模板源码，199+50，例子：https://pay.sanqii.cn
+
+3、一条龙服务帮你搭建好，399。
+
+https://weixin110.qq.com/cgi-bin/mmspamsupport-bin/newredirectconfirmcgi?main_type=5&bancode=97f72ff50cebce4ddba4968af817b425b5987c840e7607579c08f6356d1bdf9a9fad8416bf11556726c7800073002fef4b8de4a35f99180d3ee08ac30106816e7d90d5a1a86d1d6440d38d8c1fa8aa1a5bb741e30505fb897db22110b14f5b65bb9182444d396949b06e2482d1e98a077ec912901dd69e1c2bb9eaa2292676476ed2de27b03dcc809ee0e32d50c24f74e56e56a130a5830226ce80ea58659ed33c443b0dd4a91c2e220148015ff9d8b24592286fe16b2f58576b414ac79be6321a34c0d209d961c71721a4a81fd293aeab779e12ffb256c842f2ca416141174b26260c8ad42081e5916201d9162eda20acf558a70926fb6f44d72baf2d3b8f03&evil_type=107&source=2&click=2a5d207a3e6d707ce6b93fe81070531e&bankey=3abea9f37654dbcfd4b0b8bc1afbe294&exportkey=AZOzNhhjkq%2BfByPu0ob6nFM%3D&pass_ticket=gzRL8708ZvlvkSgVkmnHbetYc8zTUVltncCZDZITGrqxiHhE4gCMpyxvJfbo%2BVbj&wechat_real_lang=zh_CN&wx_header=0
+
+
+
