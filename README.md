@@ -15,5 +15,5 @@
 
 咸鱼链接：https://market.m.taobao.com/app/idleFish-F2e/widle-taobao-rax/page-detail?wh_weex=true&wx_navbar_transparent=true&id=654891737380&ut_sk=1.YPOYiBmWJ%2BcDAJM1/DmAk%2BYK_12431167_1631183836754.Weixin.detail.654891737380.2819344163&forceFlush=1
 
-ps：亲测：可以花呗信用卡支付，嘿嘿想要tx的都懂的
+ps：亲测：可以花呗信用卡支付，嘿嘿想要tx的都懂的，这可比你的小动物管用安全多了，零费率哦
 
